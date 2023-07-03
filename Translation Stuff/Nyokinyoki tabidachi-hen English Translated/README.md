@@ -2,6 +2,9 @@
 ## WARNING
 This is UNFINISHED, meaning not everything is translated.
 
+## What is this?
+This game is like the puyopuyo series, but a bit different as you choose when to pop them.
+
 ### Stuff Translated:
 - Free Mode menu and sub-menus
 - Idk how to call it, but the area where you play, and Pause Menu
