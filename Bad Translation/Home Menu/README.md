@@ -1,6 +1,7 @@
 # 3DS Home Menu bad translation
 
 Note: this project is UNFINISHED, and may never be due to the lack of motivation.
+
 Note2: due to how luma homemenu patching work, random crashes can occur while going to the homemenu, this is rare though.
 
 ## What is this?
@@ -16,5 +17,5 @@ Basically, I got the homemenu strings, put it on a website that translate it usi
   - REGION is your region (``EU``, ``US``, ``JP``, ``KR``)
   - Language is your language in english (``English``, ``French``, ``Spanish`` etc.)
   - A path for Europe region with English language would be ``luma/titles/0004003000009802/romfs/message/EU_English/``
-- Enable game patching in luma config (hold selectr while booting)
+- Enable game patching in luma config (hold select while booting)
 - Enjoy
