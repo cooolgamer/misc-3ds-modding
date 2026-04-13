@@ -1,4 +1,7 @@
 # 3DS Camera album
+
+![thumbnail](thumb.png)
+
 ## What is this?
 Here, you will find a mod for the **Japanese 3DS Camera from the 1.0 firmware** which will enable the hidden album feature.
 
