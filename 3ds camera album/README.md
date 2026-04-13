@@ -6,7 +6,7 @@
 Here, you will find a mod for the **Japanese 3DS Camera from the 1.0 firmware** which will enable the hidden album feature.
 
 It was discovered with the prototype that the 3DS camera (at least the japanese one) from the 1.0 firmware has the album feature!
-**There were some limitations**, however:
+**There are some limitations**, however:
 - Saving albums doesn't work
 - All album-related texts were empty, this mod add them back by using the ones from the prototype (some of these used a variable that's no longer working, so they're either empty or replaced with a fixed text)
 - Selecting a recording using the touch screen is kinda broken, you can navigate just fine using buttons though
