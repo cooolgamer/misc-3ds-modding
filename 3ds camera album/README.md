@@ -16,3 +16,7 @@ Just download the zip from this folder, and extract the luma folder on the root 
 From my testing, you can install it on a other region and it seems to work, this isn't guaranteed though.
 
 **Don't ask for a cia, I won't give any cia for it.**
+
+## Credits
+- @\_mistermiles_ on discord for starting this by using the proto files which I polished using the 1.0 files :)
+- The 3ds challenge team for the prototype!
